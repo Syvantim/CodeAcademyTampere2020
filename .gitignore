@@ -1,0 +1,12 @@
+DotNet/ArvaaLuku/bin/**
+DotNet/ArvaaLuku/obj/**
+DotNet/ArvaaLuku/.vscode/**
+DotNet/HelloWorld/bin/**
+DotNet/HelloWorld/obj/**
+DotNet/HelloWorld/.vscode/**
+DotNet/Laskin/bin/**
+DotNet/Laskin/obj/**
+DotNet/Laskin/.vscode/**
+DotNet/Random/bin/**
+DotNet/Random/obj/**
+DotNet/Randomn/.vscode/**

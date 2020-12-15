@@ -1,0 +1,5 @@
+C:\Academy\Tampere\DotNet\obj\Debug\net5.0\DotNet.csprojAssemblyReference.cache
+C:\Academy\Tampere\DotNet\obj\Debug\net5.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Tampere\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfoInputs.cache
+C:\Academy\Tampere\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfo.cs
+C:\Academy\Tampere\DotNet\obj\Debug\net5.0\DotNet.csproj.CoreCompileInputs.cache

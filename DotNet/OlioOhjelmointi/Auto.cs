@@ -19,7 +19,7 @@ namespace OlioOhjelmointi
         public void Käynnistä()
         {
           MoottoriKäynnissä = true;
-          Console.WriteLine("Käynnistä auto");
+          Console.WriteLine($"Auto {Merkki} {Malli} on käynnissä." );
         }
 
         public void Sammuta()

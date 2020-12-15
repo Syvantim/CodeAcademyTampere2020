@@ -9,4 +9,7 @@ DotNet/Laskin/obj/**
 DotNet/Laskin/.vscode/**
 DotNet/Random/bin/**
 DotNet/Random/obj/**
-DotNet/Randomn/.vscode/**
+DotNet/Random/.vscode/**
+DotNet/OlioOhjelmointi/bin/**
+DotNet/OlioOhjelmointi/obj/**
+DotNet/OlioOhjelmointi/.vscode/**

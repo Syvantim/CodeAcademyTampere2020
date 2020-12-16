@@ -22,7 +22,9 @@ namespace OlioOhjelmointi
                 Huippunopeus = 200
             };
 
-
+            Urheiluauto avo = new Urheiluauto() {
+                KattoAlhaalla = true
+            };
 
         }
     }

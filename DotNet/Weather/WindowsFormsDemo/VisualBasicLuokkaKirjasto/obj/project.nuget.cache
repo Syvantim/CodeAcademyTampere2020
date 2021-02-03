@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2FzceoQZJsYC7yjHMGqo+0Sl6Y5q/eOX/73z3UbQc+5I5Q2ZvRci+OJvPxe/CJh/CnPDupo+a8LHbMAp3y7Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Academy\\Tampere\\Git\\DotNet\\Weather\\WindowsFormsDemo\\VisualBasicLuokkaKirjasto\\VisualBasicLuokkaKirjasto.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\syti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

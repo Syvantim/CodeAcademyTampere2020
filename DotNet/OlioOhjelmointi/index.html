@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>HTML5 Page</title>
+</head>
+
+<p>Terve, <b>mitä kuuluu?</b></p>
+<p>Terve, <i>mitä kuuluu?</i></p>
+
+<p>Terve, <strong>mitä kuuluu?</strong></p>
+<p>Terve, <em>mitä kuuluu?</em></p>
+
+
+<body>
+
+<h1> Jatketaan 12.30 </h1>
+<h2> Pienempi otsikko </h2>
+
+<p>Kappale</p>
+
+    <ul>
+        <li>Terve</li>
+        <li>heipodei</li>
+    </ul>
+<button>Fetch</button>
+
+<script>
+    let nappi = document.querySelector("button")
+    nappi.addEventListener("click", async () => {
+        let hr = await fetch("https://swapi.dev/api/people/1/")
+        let olio = await hr.json()
+        console.log(olio)
+        let h1 = document.querySelector("h1")
+        h1.innerHTML = olio.name
+    })
+</script>
+
+</body>

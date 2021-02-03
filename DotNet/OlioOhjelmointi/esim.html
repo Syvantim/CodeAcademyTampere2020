@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>HTML5 Page</title>
+</head>
+
+<body>
+    <h1>Ostoslista</h1>
+
+    <ul>
+        <li>Maito</li>
+    
+    </ul>
+    <button id="remove">Remove</button>
+
+    <input type="text" placeholder="Anna ostos" id="ostos">
+
+    <button id="add">Add</button>
+    
+    <script>
+
+        let lista = ["maito", "porkkana", "olut", "juusto"]
+        let nappi = document.querySelector("#add")
+
+        nappi.addEventListener("click", () => {
+            let input = document.querySelector("#ostos") 
+            let ul = document.querySelector("ul")
+
+
+            let li = document.createElement("li")
+            li.innerHTML = input.value
+            ul.appendChild(li)
+        })
+        let remove = document.querySelector("#remove")
+        
+        remove.addEventListener("click", () => {
+            let ul = document.querySelector("ul")
+            let li = document.createElement("li")
+            liu.innerHTML  
+
+        })
+    </script>
+</body>
+</hmtl>

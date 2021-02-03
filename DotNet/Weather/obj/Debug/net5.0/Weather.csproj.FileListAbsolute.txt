@@ -1,0 +1,16 @@
+C:\Academy\Tampere\Git\DotNet\Weather\bin\Debug\net5.0\Weather.exe
+C:\Academy\Tampere\Git\DotNet\Weather\bin\Debug\net5.0\Weather.deps.json
+C:\Academy\Tampere\Git\DotNet\Weather\bin\Debug\net5.0\Weather.runtimeconfig.json
+C:\Academy\Tampere\Git\DotNet\Weather\bin\Debug\net5.0\Weather.runtimeconfig.dev.json
+C:\Academy\Tampere\Git\DotNet\Weather\bin\Debug\net5.0\Weather.dll
+C:\Academy\Tampere\Git\DotNet\Weather\bin\Debug\net5.0\ref\Weather.dll
+C:\Academy\Tampere\Git\DotNet\Weather\bin\Debug\net5.0\Weather.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.csprojAssemblyReference.cache
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.AssemblyInfoInputs.cache
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.AssemblyInfo.cs
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.csproj.CoreCompileInputs.cache
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.dll
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\ref\Weather.dll
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\obj\Debug\net5.0\Weather.genruntimeconfig.cache

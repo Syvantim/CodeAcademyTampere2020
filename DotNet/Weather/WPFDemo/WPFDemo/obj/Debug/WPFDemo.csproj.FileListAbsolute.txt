@@ -1,0 +1,14 @@
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Academy\Tampere\Git\DotNet\Weather\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb

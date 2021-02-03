@@ -1,0 +1,10 @@
+GET http://koti.tamk.fi/~pohjus/hello.txt
+###
+###
+GET http://koti.tamk.fi/~pohjus/rest/2.php
+###/
+POST http://koti.tamk.fi/~pohjus/rest/3.php
+###
+
+GET http://localhost:8080/locations
+

@@ -1,0 +1,15 @@
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\bin\Debug\WPFLaskinKoe.exe.config
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\bin\Debug\WPFLaskinKoe.exe
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\bin\Debug\WPFLaskinKoe.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe.csprojAssemblyReference.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\MainWindow.g.cs
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\App.g.cs
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe_MarkupCompile.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe_MarkupCompile.lref
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\MainWindow.baml
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe.g.resources
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe.Properties.Resources.resources
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe.csproj.GenerateResource.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe.csproj.CoreCompileInputs.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe.exe
+C:\Academy\Tampere\Git\DotNet\Weather\WPFLaskinKoe\WPFLaskinKoe\obj\Debug\WPFLaskinKoe.pdb

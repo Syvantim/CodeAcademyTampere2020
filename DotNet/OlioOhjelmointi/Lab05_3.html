@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>HTML5 Page</title>
+</head>
+<body>
+    <h1>Change this</h1>
+    <input type="text"  placeholder="name">
+    <button>Click me!</button>
+    <script>
+        let nappi = document.querySelector("button")
+        nappi.addEventListener("click", () => {
+            let h1 = document.querySelector("h1")
+            h1.innerHTML = document.querySelector("input").value
+       })
+    </script>
+</body>
+</hmtl>

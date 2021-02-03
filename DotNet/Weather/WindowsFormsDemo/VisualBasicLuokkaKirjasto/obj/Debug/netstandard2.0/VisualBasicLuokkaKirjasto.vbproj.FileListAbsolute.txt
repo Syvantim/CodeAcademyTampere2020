@@ -1,0 +1,9 @@
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\bin\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.deps.json
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\bin\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.dll
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\bin\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\obj\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.vbprojAssemblyReference.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\obj\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.AssemblyInfoInputs.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\obj\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.AssemblyInfo.vb
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\obj\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.vbproj.CoreCompileInputs.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\obj\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.dll
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\VisualBasicLuokkaKirjasto\obj\Debug\netstandard2.0\VisualBasicLuokkaKirjasto.pdb

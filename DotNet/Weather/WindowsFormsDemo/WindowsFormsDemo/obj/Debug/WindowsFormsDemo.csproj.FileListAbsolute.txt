@@ -1,0 +1,13 @@
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csprojAssemblyReference.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form1.resources
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CoreCompileInputs.cache
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\VisualBasicLuokkaKirjasto.dll
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\VisualBasicLuokkaKirjasto.pdb
+C:\Academy\Tampere\Git\DotNet\Weather\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CopyComplete

@@ -1,0 +1,5 @@
+var readLineSync = require('readline-sync');
+
+// Wait for user's response.
+var userName = readlineSync.question('May i have your name? ');
+console.log('Hi ' + userName + '!');
